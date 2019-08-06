@@ -230,7 +230,7 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 ##💻这才是技术群~~(死宅群)~~的模样！？##
 ----------
 
-**12：00am以后的世界**
+> **12：00am以后的世界**
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/techgroup.jpg" width="300" div align=center />
 
@@ -240,11 +240,11 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
 
-**老婆才是原动力**
+> **老婆才是原动力**
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/wife.jpg" width="300" div align=center />
 
-**上下班加班、搬砖、摸鱼 x N**
+> **上下班加班、搬砖、摸鱼 x N**
 
 大家都是什么时候下班的呢？
 
@@ -256,7 +256,7 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing2.jpg" width="200" hegiht="200" div align=center/>
 
-**点赞 x N**
+>  **点赞 x N**
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb2%20(2).jpg" width="300" div align=center/>
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb7%20(2).jpg" width="300" div align=center />
@@ -265,13 +265,14 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb.jpg" width="300" div align=center/>
 
 
-**作死小王子才是真实队名？**
+>  **作死小王子才是真实队名？**
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie3.jpg" width="300" div align=center />
 
-
+---
 
 ##🌈一起把梦想变为现实##
+---
 
 从策划——
 
@@ -287,13 +288,15 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/letter1.png" width="500"  div align=center />
 
-【最后的网页链接】
+【差最后的网页链接】
 
-感谢相遇！
-
+感谢京阿尼曾给我们带来共同的感动！也感谢这次相遇，希望它也能为京阿尼的重振旗鼓带去魔力！
 
 最后，希望这份记忆能永远留存，希望我们的期盼能得到上天的回应，希望一切都能好起来！挺住啊！京阿尼！
 
 
-作者 JinX(谢瑾) From PrayForKyoto
+作者 JinX(谢瑾) 
+
+From “PrayForKyoto”
+
 2019 年 08月 06日    
