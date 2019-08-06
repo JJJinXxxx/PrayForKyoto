@@ -51,12 +51,15 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 ----------
 
 
-
 **1号守护：Beibei Liu**
 
 **——活动发起者**
 
-贝贝是个挣扎中的劳动人民，经常在深夜才终于从工作漩涡中挣脱出出来……（憋说了，哭了😭，多不容易嗷）
+**🏆最敬业奖**
+
+贝贝这段时间的生活大概就是“我与工作共存亡”？
+
+作为一位挣扎中的劳动人民，贝贝经常在深夜才终于从工作漩涡中挣脱出出来……（憋说了，哭了😭，多不容易嗷）
 
 > “你们下班真早”
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/overwork1.jpg" width="300" div align=center />
@@ -65,27 +68,33 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/beibei.jpg" width="300" div align=center />
 
-
+---
 
 **2号守护：Sunling**
 
 **——网页文案**
 
+**🏆最委屈奖**
+
 （｡･∀･)ﾉﾞHello!中野梓！
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/hello.jpg" width="200" hegiht="200" div align=center />
 
-写个文稿真的是个令人抠脑壳的工作，特别是标题这种事情，就应该让它空着才对！(详情：见7号守护处)
+写个文稿真的是个令人抠脑壳的工作，Sunling写好第一版以后忽然被建议不要加入个人感情的部分，好委屈的嗷😔，脑壳疼嗷。
 
-【标题】
+对了，特别是标题这种事情，就应该让它空着才对！(详情：见7号守护处)
+
+【标题？】（这样才显得更有创意嘛）
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/notitle1.jpg" width="400" div align=center />
 
-
+---
 
 **3号守护：Deemo Ding**
 
-**——前端（最累的那个）**
+**——前端**
+
+**🏆最劳累奖**
 
 最开始我是抱着做前端的~~（必死的）~~心态来参与这次活动的，然后就遇到了Deemo这位堪称“最佳劳模”的前端！
 
@@ -99,11 +108,13 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nops.jpg" width="300" div align=center />
 
-
+---
 
 **4号守护：Locez**
 
 **——后端、PM（真）**
+
+**🏆最作死奖**
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/hello4%20(2).jpg" width="300" div align=center />
 
@@ -115,29 +126,39 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie4.jpg" width="300" div align=center />
 
-
+---
 
 **5号守护：JinX**
 
 **——策划、PM（假）**
 
+**🏆最粉丝奖**
+
 PM？我是业余的；京蜜？我是专业的
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/fan.jpg" width="300" div align=center />
 
+其实消息一出来，我就立马开启了我的“重温计划”，又从头过了一遍《中二病也要谈恋爱！恋》和《紫罗兰永恒花园》
 
+七宫智音是我用了六年前用的
+
+---
 
 **6号守护：Haorui He**
 
 **——版权 ~~（情敌）~~**
 
+**🏆最奖**
+
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/adversary.jpg" width="300" div align=center />
 
-
+---
 
 **7号守护：Shirakami Fubuki**
 
 **——机动**
+
+**🏆最激动奖**
 
 怎么会有这么可爱的机动~~（激动）~~人员，莫名戳中萌点嗷：
 
@@ -153,30 +174,39 @@ PM？我是业余的；京蜜？我是专业的
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/no%20title.jpg" width="300" div align=center />
 
+---
 
 **8号守护：Mr.Z**
 
 **——画师**
 
+**🏆最神仙奖**
+
+当第一张画稿出来的时候 —— 哇，打字机，这是，什么神仙的手画出来的打字机！？
+
 一位严肃自闭艺术家，又上班又画打字机真是太辛苦了
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/drawer.jpg" width="300" div align=center />
 
+---
 
 **9号守护：Pppp**
 
 **——外援设计**
 
+**🏆最奖**
+
 JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
-
-
+---
 
 **10号守护：Maxoyed**
 
 **——服务器**
 
-看！东哥扛着服务器最后登场了！
+**🏆最强壮奖**
+
+看！东哥扛着服务器最后登场了！（哇哦搬服务器肌肉男！）
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/east.jpg" width="300" div align=center />
 
@@ -222,16 +252,11 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 **点赞 x N**
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb2%20(2).jpg" width="200" hegiht="200" div align=center/>
-
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb2%20(2).jpg" width="300" div align=center/>
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb7%20(2).jpg" width="300" div align=center />
-
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb3%20(2).jpg" width="200" hegiht="200" div align=center/>
-
-
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb3%20(2).jpg" width="300" div align=center/>
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb1.jpg" width="300" div align=center />
-
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb.jpg" width="200" hegiht="200" div align=center/>
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb.jpg" width="300" div align=center/>
 
 
 **作死小王子才是真实队名？**
@@ -242,7 +267,7 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 ##🌈一起把梦想变为现实##
 
-从策划到最终实现
+从策划——
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/1.jpg" width="300"  div align=center />
 
@@ -250,8 +275,20 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/3.jpg" width="300"  div align=center />
 
+到最终实现！
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/letter.png" width="500"  div align=center />
+
+【最后的网页链接】
+
+感谢相遇！
 
 
 
-作者 JinX(谢瑾)
-2019 年 08月 07日    
+最后，希望这份记忆能永远留存，希望我们的期盼能得到上天的回应，希望一切都能好起来！挺住啊！京阿尼！
+
+
+
+
+作者 JinX(谢瑾) From PrayForKyoto
+2019 年 08月 06日    
