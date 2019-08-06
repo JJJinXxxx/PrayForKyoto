@@ -118,6 +118,8 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/hello4%20(2).jpg" width="300" div align=center />
 
+这世界上，有这样的一个人 —— 他，总是呼唤着学灰（雪辉！？）；他，总是一下班就向我们报告；他，忙碌在群头到群尾的每一个角落……
+
 他，就是传说中的“作死小王子”
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie.jpg" width="300" div align=center />
