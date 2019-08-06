@@ -88,11 +88,11 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 老早就按策划把框架搭好了，还在折腾sai2画稿的路上，独自自闭了好久，当然后来就是变成我和他一起自闭了。
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/hello3%20(2).jpg" width="300" div align=center />
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nogoodps.jpg" width="300" div align=center />
 
 好了好了，我知道你是个不会PS的前端了，简笔画是真的萌嗷。
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/hello3%20(2).jpg" width="300" div align=center />
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nops.jpg" width="300" div align=center />
 
 
 **4号守护：Locez**
@@ -103,8 +103,13 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 他，就是传说中的“作死小王子”
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/hello3%20(2).jpg" width="300" div align=center />
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie.jpg" width="300" div align=center />
 
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie1.png" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie4.jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
 
 **5号守护：JinX**
 
@@ -126,13 +131,17 @@ PM？我是业余的；京蜜？我是专业的
 
 **——机动**
 
-怎么会有这么可爱的机动~~（激动）~~人员
-
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/title.jpg" width="300" div align=center />
+怎么会有这么可爱的机动~~（激动）~~人员，莫名戳中萌点嗷：
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/exciting.jpg" width="300" div align=center />
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/exciting2.jpg" width="300" div align=center />
+
+【没有标题】
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/title.jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/no%20title.jpg" width="300" div align=center />
 
 
 **8号守护：Mr.Z**
@@ -186,19 +195,24 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing.jpg" width="300" div align=center />
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing1.jpg" width="200" hegiht="200" div align=center/>
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing2.jpg" width="200" hegiht="200" div align=center/>
 
 **点赞 x N**
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
+
 
 **作死小王子才是真实队名？**
+
+
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie3.jpg" width="300" div align=center />
+
+
 
 ##🌈一起把梦想变为现实##
 
