@@ -49,6 +49,9 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 😀聚集了一群志同道合的伙伴~~（中二病患者）~~呢
 ----------
+
+
+
 **1号守护：Beibei Liu**
 
 **——活动发起者**
@@ -61,6 +64,7 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 没错，贝贝就是那个李荣浩唱的那个贝贝~
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/beibei.jpg" width="300" div align=center />
+
 
 
 **2号守护：Sunling**
@@ -76,6 +80,7 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 【标题】
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/notitle1.jpg" width="400" div align=center />
+
 
 
 **3号守护：Deemo Ding**
@@ -95,6 +100,7 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nops.jpg" width="300" div align=center />
 
 
+
 **4号守护：Locez**
 
 **——后端、PM（真）**
@@ -109,7 +115,7 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie4.jpg" width="300" div align=center />
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
+
 
 **5号守护：JinX**
 
@@ -122,10 +128,12 @@ PM？我是业余的；京蜜？我是专业的
 
 
 **6号守护：Haorui He**
+
 **——版权 ~~（情敌）~~**
 
-
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/adversary.jpg" width="300" div align=center />
+
+
 
 **7号守护：Shirakami Fubuki**
 
@@ -140,6 +148,8 @@ PM？我是业余的；京蜜？我是专业的
 【没有标题】
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/title.jpg" width="300" div align=center />
+
+【我都说了！没有！标题！】
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/no%20title.jpg" width="300" div align=center />
 
@@ -159,6 +169,9 @@ PM？我是业余的；京蜜？我是专业的
 
 JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
+
+
+
 **10号守护：Maxoyed**
 
 **——服务器**
@@ -167,29 +180,37 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/east.jpg" width="300" div align=center />
 
-
 ----------
 
+
+
 ##💻这才是技术群~~(死宅群)~~的模样！？##
+----------
 
 **12：00am以后的世界**
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/hello3%20(2).jpg" width="300" div align=center />
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/techgroup.jpg" width="300" div align=center />
 
 1：10am的激烈讨论——
+
 这才是元气满满的新一天的正确打开方式？
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
 
 **老婆才是原动力**
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/hello3%20(2).jpg" width="300" div align=center />
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/wife.jpg" width="300" div align=center />
 
 **上下班加班（搬砖） x N**
 
 大家都是什么时候下班的呢？
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/hello3%20(2).jpg" width="300" div align=center />
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/overwork.jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/overwork.jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/overwork.jpg" width="300" div align=center />
+
 
 **摸鱼 x N**
 
@@ -200,15 +221,20 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing2.jpg" width="200" hegiht="200" div align=center/>
 
 **点赞 x N**
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb2%20(2).jpg" width="200" hegiht="200" div align=center/>
 
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb7%20(2).jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb3%20(2).jpg" width="200" hegiht="200" div align=center/>
+
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb1.jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/thumb.jpg" width="200" hegiht="200" div align=center/>
 
 
 **作死小王子才是真实队名？**
-
-
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie3.jpg" width="300" div align=center />
 
