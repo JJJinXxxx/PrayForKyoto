@@ -140,7 +140,7 @@ PM？我是业余的；京蜜？我是专业的
 
 其实消息一出来，我就立马开启了我的“重温计划”，又从头过了一遍《中二病也要谈恋爱！恋》和《紫罗兰永恒花园》
 
-七宫智音是我用了六年前用的
+七宫智音是我用了六年前用的(未完，调整中)
 
 ---
 
@@ -148,9 +148,13 @@ PM？我是业余的；京蜜？我是专业的
 
 **——版权 ~~（情敌）~~**
 
-**🏆最奖**
+**🏆最情敌奖（？？？）**
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/adversary.jpg" width="300" div align=center />
+
+悄悄说一句：
+
+> “邪王真眼！要是我当时抓住的不是硬币而是勇者的手的话，你就不可能再和他出续集了！哼！😕”
 
 ---
 
@@ -158,7 +162,7 @@ PM？我是业余的；京蜜？我是专业的
 
 **——机动**
 
-**🏆最激动奖**
+**🏆最激动奖（太可爱了**
 
 怎么会有这么可爱的机动~~（激动）~~人员，莫名戳中萌点嗷：
 
@@ -166,13 +170,18 @@ PM？我是业余的；京蜜？我是专业的
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/exciting2.jpg" width="300" div align=center />
 
-【没有标题】
+（【我不是标题】）
+
+（【没有标题】）
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/title.jpg" width="300" div align=center />
 
-【我都说了！没有！标题！】
+（【我都说了！没有！标题！】）
+
+（【看见没！他们不需要标题！】）
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/no%20title.jpg" width="300" div align=center />
+
 
 ---
 
@@ -180,11 +189,13 @@ PM？我是业余的；京蜜？我是专业的
 
 **——画师**
 
-**🏆最神仙奖**
+**🏆最奖**
 
-当第一张画稿出来的时候 —— 哇，打字机，这是，什么神仙的手画出来的打字机！？
+当第一张画稿出来的时候 —— 哇，打字机，这是，一群什么神仙的手画出来的打字机！？
 
-一位严肃自闭艺术家，又上班又画打字机真是太辛苦了
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/letter.png" width="500" div align=center />
+
+怪我没留意到，其实画打字机的只是一个人……一个！？一位严肃自闭艺术家，又上班又画打字机真是太辛苦了。
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/drawer.jpg" width="300" div align=center />
 
@@ -194,9 +205,11 @@ PM？我是业余的；京蜜？我是专业的
 
 **——外援设计**
 
-**🏆最奖**
+**🏆最及时奖**
 
 JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
+
+> A friend in need is a friend in need.
 
 ---
 
@@ -231,18 +244,11 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/wife.jpg" width="300" div align=center />
 
-**上下班加班（搬砖） x N**
+**上下班加班、搬砖、摸鱼 x N**
 
 大家都是什么时候下班的呢？
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/overwork.jpg" width="300" div align=center />
-
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/overwork.jpg" width="300" div align=center />
-
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/overwork.jpg" width="300" div align=center />
-
-
-**摸鱼 x N**
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing.jpg" width="300" div align=center />
 
@@ -279,15 +285,14 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/letter.png" width="500"  div align=center />
 
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/letter1.png" width="500"  div align=center />
+
 【最后的网页链接】
 
 感谢相遇！
 
 
-
 最后，希望这份记忆能永远留存，希望我们的期盼能得到上天的回应，希望一切都能好起来！挺住啊！京阿尼！
-
-
 
 
 作者 JinX(谢瑾) From PrayForKyoto
