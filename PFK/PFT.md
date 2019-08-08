@@ -191,13 +191,13 @@ PM？我是业余的；京蜜？我是专业的
 
 **——画师**
 
-**🏆最奖**
+**🏆最精致奖**
 
-当第一张画稿出来的时候 —— 哇，打字机，这是，一群什么神仙的手画出来的打字机！？
+当第一张画稿出来的时候 —— 哇，打字机，这是，一群什么神仙的手画出来的打字机！？太好看了吧！？
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/letter.png" width="500" div align=center />
 
-怪我没留意到，其实画打字机的只是一个人……一个！？一位严肃自闭艺术家，又上班又画打字机真是太辛苦了。
+怪我没留意到，其实画打字机的只是一个人……只是一个！？对，一位严肃自闭艺术家，又上班又画打字机真是太辛苦了。
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/drawer.jpg" width="300" div align=center />
 
@@ -240,7 +240,7 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 这才是元气满满的新一天的正确打开方式？
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="200" hegiht="200" div align=center />
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/action.jpg" width="300" div align=center />
 
 > **老婆才是原动力**
 
@@ -254,9 +254,9 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing.jpg" width="300" div align=center />
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing1.jpg" width="200" hegiht="200" div align=center/>
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing1.jpg" width="300"  div align=center/>
 
-<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing2.jpg" width="200" hegiht="200" div align=center/>
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/gofishing2.jpg" width="300" div align=center/>
 
 >  **点赞 x N**
 
