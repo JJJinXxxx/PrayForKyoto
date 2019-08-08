@@ -156,9 +156,6 @@ PM？我是业余的；京蜜？我是专业的
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/fan.jpg" width="300" div align=center />
 
-其实消息一出来，我就立马开启了我的“重温计划”，又从头过了一遍《中二病也要谈恋爱！恋》和《紫罗兰永恒花园》
-
-七宫智音是我用了六年前用的(未完，调整中)
 
 ---
 
