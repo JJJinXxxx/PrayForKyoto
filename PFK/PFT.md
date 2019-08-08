@@ -53,7 +53,7 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 **1号守护：Beibei Liu**
 
-**——活动发起者**
+**——活动发起者之一！**
 
 **🏆最敬业奖**
 
@@ -108,11 +108,16 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nops.jpg" width="300" div align=center />
 
+获奖理由：惨，真的非常惨，全组最惨，“甚至还学会了字体压缩！？”
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/font.jpg" width="300" div align=center />
+
+
 ---
 
 **4号守护：Locez**
 
-**——后端、PM（真）**
+**——后端、PM（真）、活动发起者之二！**
 
 **🏆最作死奖**
 
@@ -127,6 +132,17 @@ Dark Flame Master的失控魔法下，火光中，一张张“京都脸”，微
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie1.png" width="300" div align=center />
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/nozuonodie4.jpg" width="300" div align=center />
+
+他，曾在深夜（3：00am）中孤独呼唤，他曾无数次发出对现充的怨念……
+
+他，就是死宅！
+
+鬼才和你3：00am见……
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/3am.jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/300am1.jpg" width="300" div align=center />
+
 
 ---
 
@@ -225,6 +241,10 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/east.jpg" width="300" div align=center />
 
+开源工场的CTO就是家大业大嗷
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/money.jpg" width="300" div align=center />
+
 ----------
 
 
@@ -236,7 +256,7 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/techgroup.jpg" width="300" div align=center />
 
-1：10am的激烈讨论——
+1：10am的激烈讨论——（虽然1：10am对于作死小王子完全不在话下）
 
 这才是元气满满的新一天的正确打开方式？
 
@@ -245,6 +265,16 @@ JinX的好伙伴，一起填坑啊真是一口仙气吊着嗷
 > **老婆才是原动力**
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/wife.jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/wife.png" width="300" div align=center />
+
+> **现充都是异类？？？**
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/reality.jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/reality1.jpg" width="300" div align=center />
+
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/reality2.jpg" width="300" div align=center />
 
 > **上下班加班、搬砖、摸鱼 x N**
 
