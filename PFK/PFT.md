@@ -156,6 +156,8 @@ PM？我是业余的；京蜜？我是专业的
 
 <img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/fan.jpg" width="300" div align=center />
 
+写策划截图之前还专门再刷了一遍《京紫》，真的好希望把每分每秒的画面都刻在脑子里嗷
+
 
 ---
 
