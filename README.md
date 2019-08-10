@@ -10,6 +10,8 @@
 
 <a href="http://praykyoto.github.io" target="_blank">默哀通道：PrayForTokyo </a>
 
+<img src="https://raw.githubusercontent.com/JJJinXxxx/OpeningSource/master/PFK/letter.png" width="500" div align=center />
+
 ------
 
 > 📃希望大家能在拆开这封信件后
